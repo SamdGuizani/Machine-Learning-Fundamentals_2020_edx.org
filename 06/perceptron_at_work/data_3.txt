@@ -1,0 +1,5 @@
+# A linearly separable problem
+# Left-hand group: -1
+# Right-hand group: +1
+1 1 1
+1 1.005 -1
